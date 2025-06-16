@@ -15,7 +15,6 @@ Contiene ejemplos de:
 - Declaración de diferentes tipos de variables: `int`, `float`, `str`, `bool`, `list`.
 - Uso de la función `type()` para verificar el tipo de cada variable.
 
----
 
 2. ciclos/
 condicionales/
@@ -26,7 +25,7 @@ condicionales/
 - Uso de condicionales `if`, `elif`, `else`.
 - Instrucciones especiales como `break`, `continue` y `else` en bucles.
 
----
+
 
 3. crud_nativo/
 
@@ -34,7 +33,7 @@ crud.py
 - Sistema CRUD básico (Crear, Leer, Actualizar, Eliminar) usando Python puro.
 - Puede usarse con MONGO
 
----
+
 
 investigacion_libreria/
 
